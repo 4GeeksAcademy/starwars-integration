@@ -1,8 +1,5 @@
-# ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32)  
-StarWars Front and Back integration
+# ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32) StarWars Front and Back Integration
 It's time to finish your first big project. You have already gone through the front and backend. What remains now is to assemble each of the parts so that you have finished your first fullstack project.
-
-![Final Project Architecture](https://github.com/4GeeksAcademy/final-project-full-stack/blob/main/docs/assets/preview.png?raw=true)
 
 It's time to thing about what you are going to be building, you'll have to develop an entire product, prepare a presentation & demonstrate the product and the idea to family, friends and hiring partners.
 
