@@ -1,58 +1,55 @@
-Proyecto final Full-Stack
-Final Project Architecture
+# ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32)  Full-Stack Final Project
 
-Es hora de pensar en lo que vas a crear, tendrás que desarrollar un producto completo, preparar una presentación y presentar el producto y la idea a familiares, amigos y posibles socios.
+![Final Project Architecture](https://github.com/4GeeksAcademy/final-project-full-stack/blob/main/docs/assets/preview.png?raw=true)
 
-Este proyecto debe iniciarse después de tener la clase sobre desarrollo ágil ya que tendrás que crear historias de usuario y un tablero Kanban.
+It's time to thing about what you are going to be building, you'll have to develop an entire product, prepare a presentation & demonstrate the product and the idea to family, friends and hiring partners.
 
-Instrucciones:
-Comienza tu proyecto con el boilerplate Full-Stack que contiene tanto el Front-End como el Back-End.
+This project should be started after you have the class about Agile Development because you will have to create User Stories and a Kanban Board.
 
-Añade todas tus historias de usuario en los issues (problemas) del repositorio, este será el repositorio principal para las especificaciones de tu proyecto.
+## Instructions:
 
-Por favor crea un Proyecto en Github con tablero Kanban automatizado con las siguientes columnas dentro de tu KANBAN: Backlog (lista de tareas pendientes), Todo (tareas por hacer), Doing (tareas en proceso), Done (tareas hechas).
+1. Start the project using the academy [Full-Stack boilerplate](https://github.com/4GeeksAcademy/react-flask-hello) that contains Front-End and Back-End all together.
+2. Add all your user stories into the [repository issues](https://help.github.com/en/articles/about-issues) as it will be the main repository for your project specs.
+3. Please create a [Github Kanban Automated Project](https://help.github.com/en/articles/about-project-boards) with the KANBAN columns: Backlog, Todo, Doing, Done.
+4. Now add the issues into the project as cards, plan for your first iteration.
 
-Ahora añade los issues o problemas en el proyecto como tarjetas, planifica tu primera iteración.
 
-Requisitos tecnológicos para realizar este proyecto:
-Varias páginas con HTML5 + CSS3 + Bootstrap.
+### Technological Requirements for the project:
 
-Autetitificación de usuario (Login+Signup+Remind Password).
+1. Several Pages (for example: Home page, Login Page, Profile Page, etc.).
+2. User authentication (Login+Signup+Remind Password).
+3. Custom made API with Authentication.
+4. 3rd party API integration (embeds and iframes don’t count), it has to be a back-end integration.
+5. React.js application using Flux and React Router.
+6. Anything else the student wants to add.
 
-API customizada hecha con OAuth.
+### Methodology Requirements
 
-Integración de una API de terceros (embeds y iframes no cuentan), debe ser una integración back-end.
+1. The project must have between 2 - 3 team members (3 is better than 2)
+2. Start by doing the wireframes and user stories and add them into your repository issues and projects (you have to deliver them).
+3. Create all the user stories with acceptance criteria.
+4. Use a Kanban board for follow up on [Github Project Boards](https://help.github.com/articles/about-project-boards/)
 
-Aplicación React.js usando Flux y React Router.
+# Building the Wireframe
 
-Cualquier otra cosa que desees añadir.
+A great way to polish your user stories is to draft of all your application wireframes.
 
-Requerimientos de la Metodología:
-El proyecto debe tener de 2 a 3 miembros ( 3 es mejor que 2).
+Please create all the wireframes for your [application's MVP](https://www.youtube.com/watch?v=joNKkWPafZs).
 
-Empieza creando los wireframes y las historias de usuario y añádelas a los issues y proyectos de tu repositorio (este requisito debe entregarse).
+## Steps
 
-Crea todas las historias de usuarios con un criterio de aceptación.
+- Start by building a sitemap.
 
-Usa un tablero Kanban para hacerle seguimiento a los tableros de proyecto en Github
+- Then do the wireframe of your home page.
 
-Creando los Wireframes:
-Una buena forma de pulir tus historias de usuario es hacer un borrador de todos los wireframes de tu aplicación (puedes dibujarlos).
+- Continue drawing the most important pages.
 
-Por favor crea todos los wireframes para el MVP de tu aplicación.
+- Everytime you draw a page, identify and highlite the re-usable parts to convert them into components.
 
-Pasos a seguir:
-Comienza por crear un mapa de tu sitio web.
+- Try to re-use everything all the time. The less code, the better!
+- Keep it simple!
 
-Luego crea el wireframe de tu página principal.
 
-Continúa dibujando el resto de las páginas más importantes.
+# [BE LEAN!](https://www.youtube.com/watch?v=jBlrLqsjIDw)
+# [Like Really LEAN!](https://www.youtube.com/watch?v=X2YoHFuWkqs)
 
-Cada vez que dibujes un wireframe, identifica y destaca las partes reutilizables para así convertirlas en componentes.
-
-Intenta reutilizar lo que más puedas ¡mientras menos código, mejor!
-
-¡No te compliques!
-
-¡SÉ EFICIENTE!
-¡Realmente EFICIENTE!
